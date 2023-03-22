@@ -7,14 +7,14 @@ We will be using resampling to build and evaluate different models predicting cr
 ### Random Oversampler Algorithm
 <img src="images/naive_random_oversampling.PNG" width="700">
 
- - Balanced Accuracy Score
+ - The Balanced Accuracy Score is 64%
  - Precision
  - Recall
 
 ### Oversampling SMOTE Algorithm
-<img src="images/smote_oversampling.PNG" width=700">
+<img src="images/smote_oversampling.PNG" width="700">
 
-- Balanced Accuracy Score
+- The Balanced Accuracy Score is 
 - Precision
 - Recall
 
